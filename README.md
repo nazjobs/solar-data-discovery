@@ -104,4 +104,3 @@ After a comprehensive analysis, the following conclusions were drawn:
 
 **Recommendation:** For an initial investment focused on maximizing raw energy output, **Sierra Leone** is the prime candidate. However, for a project where grid stability and predictability are the primary concerns, **Togo** would be a more prudent choice.
 ```
-
