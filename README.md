@@ -103,4 +103,3 @@ After a comprehensive analysis, the following conclusions were drawn:
 *   **Most Consistent Producer:** **Togo** displays the most compact box plots and the lowest standard deviation in GHI, suggesting it offers the most stable and predictable solar energy generation profile.
 
 **Recommendation:** For an initial investment focused on maximizing raw energy output, **Sierra Leone** is the prime candidate. However, for a project where grid stability and predictability are the primary concerns, **Togo** would be a more prudent choice.
-```
