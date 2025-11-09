@@ -8,6 +8,14 @@ The objective of this project is to analyze solar irradiance and weather data fo
 
 ---
 
+## 🚀 Live Demo
+
+An interactive dashboard for this project has been deployed to the Streamlit Community Cloud. It allows for a visual and quantitative comparison of the solar potential across the three locations.
+
+**[Click here to view the live application.](https://solar-data-discovery-stn6flfrdelachjj6wqbxk.streamlit.app/)**
+
+----
+
 ## Analysis & Key Features
 
 *   **Professional Environment Setup:** The project is configured with a reproducible Python virtual environment, with all dependencies locked in `requirements.txt`.
